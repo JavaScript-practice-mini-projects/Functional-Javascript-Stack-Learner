@@ -1,5 +1,5 @@
 /**
- * lecture 4 about ..........
+ * lecture 4 about return statement
  */
 
 
